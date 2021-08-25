@@ -1,7 +1,7 @@
 
 <div style="display:flex"><img style="margin:auto" alt="GIF" src="https://media.giphy.com/media/y0NFayaBeiWEU/source.gif" /></div>
 <pre>
-    for(int i=1;i>0;i++){
+    for(i=1; i>0; i++){
         print "Eat"
         console.log("Sleep")
         echo("Code");
