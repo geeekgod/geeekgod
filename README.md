@@ -18,4 +18,4 @@
 Check My Profile Stats
 #
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisrishabh22&show_icons=true&theme=radical&count_private=true)
-![Rishabh's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrishabh22&langs_count=8&theme=radical)
+![Rishabh's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrishabh22&langs_count=8&theme=radical&layout=compact)
