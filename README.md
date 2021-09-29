@@ -13,3 +13,5 @@
 [![Website Badge](https://img.shields.io/badge/-RishabhWeb-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thefrontendrish.tech/)](https://thefrontendrish.tech/)
 [![Gmail Badge](https://img.shields.io/badge/-ris8645208-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ris8645208@gmail.com)](mailto:ris8645208@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@thefrontendrish-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thefrontendrish/)](https://www.instagram.com/thefrontendrish/)
+
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisrishabh22&show_icons=true&theme=radical&count_private=true)
