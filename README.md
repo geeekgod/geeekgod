@@ -5,7 +5,7 @@
         print "Eat"
         console.log("Sleep")
         echo("Code");
-        puts("Game");
+        puts("Repeat");
     }
 </pre>
 
