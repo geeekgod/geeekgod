@@ -1,5 +1,5 @@
 
-<div style="display:flex"><img style="margin:auto" alt="GIF" src="https://media.giphy.com/media/y0NFayaBeiWEU/source.gif" /></div>
+<div style="display:flex"><img style="margin:auto" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" /></div>
 <pre>
      for(i=1; i>0; i++){
         print "Eat"
