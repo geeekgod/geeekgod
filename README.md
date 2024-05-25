@@ -15,5 +15,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-@thefrontendrish-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thefrontendrish/)](https://www.instagram.com/thefrontendrish/)
 
 ## My Stats ##
-![Profile views](https://gpvc.arturio.dev/thisisrishabh22)
+![Profile views](https://komarev.com/ghpvc/?username=geeekgod)
 ![thisisrishabh22 stats](./profile-3d-contrib/profile-green-animate.svg)
