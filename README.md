@@ -2,10 +2,10 @@
 <div style="display:flex"><img style="margin:auto" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" /></div>
 <pre>
      for(i=1; i>0; i++){
-        print "Eat"
+        print("Eat")
         console.log("Sleep")
         echo("Code");
-        puts("Repeat");
+        puts "Repeat";
     }
 </pre>
 
@@ -15,5 +15,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@thefrontendrish-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thefrontendrish/)](https://www.instagram.com/thefrontendrish/)
 
 ## My Stats ##
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geeekgod&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=geeekgod&theme=dracula)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/geeekgod.png" alt="TryHackMe">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=geeekgod&theme=onedark)
+
 ![Profile views](https://komarev.com/ghpvc/?username=geeekgod)
 ![thisisrishabh22 stats](./profile-3d-contrib/profile-green-animate.svg)
