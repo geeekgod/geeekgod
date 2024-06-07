@@ -20,6 +20,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/geeekgod.png" alt="TryHackMe">
 
+![tryhackme stats](https://raw.githubusercontent.com/geeekgod/geeekgod/master/assets/thm_propic.png)
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=geeekgod&theme=onedark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=geeekgod)
