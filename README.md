@@ -18,9 +18,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geeekgod&show_icons=true&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com?user=geeekgod&theme=dracula)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/geeekgod.png" alt="TryHackMe">
-
-![tryhackme stats](https://raw.githubusercontent.com/geeekgod/geeekgod/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/geeekgod/geeekgod/master/assets/badge.png)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=geeekgod&theme=onedark)
 
