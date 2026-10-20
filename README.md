@@ -1,26 +1,34 @@
+<h2 align="center">Hi, I'm Rishabh</h2>
 
-<div style="display:flex"><img style="margin:auto" alt="GIF" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" /></div>
-<pre>
-     for(i=1; i>0; i++){
-        print("Eat")
-        console.log("Sleep")
-        echo("Code");
-        puts "Repeat";
-    }
-</pre>
+<p align="center">
+  Founding AI Engineer @ <b>faff</b> · Bangalore · Mumbai<br/>
+  Building autonomous agents that do the real work.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RishabhLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabhh-singh/)](https://www.linkedin.com/in/rishabhh-singh/)
-[![Website Badge](https://img.shields.io/badge/-RishabhWeb-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://rishabhsingh-dev.me/)](http://geeekgod.in/)
-[![Gmail Badge](https://img.shields.io/badge/-rishabh@geeekgod.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rishabh@geeekgod.in)](mailto:rishabh@geeekgod.in)
-[![Instagram Badge](https://img.shields.io/badge/-@thefrontendrish-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thefrontendrish/)](https://www.instagram.com/thefrontendrish/)
+<p align="center">
+  <a href="https://geeekgod.in"><img src="https://img.shields.io/badge/Website-geeekgod.in-111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/rishabhh-singh/"><img src="https://img.shields.io/badge/LinkedIn-rishabhh--singh-111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/thisisgeeekgod"><img src="https://img.shields.io/badge/X-@thisisgeeekgod-111?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://medium.com/@geeekgod"><img src="https://img.shields.io/badge/Medium-@geeekgod-111?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:rishabh@geeekgod.in"><img src="https://img.shields.io/badge/Email-rishabh@geeekgod.in-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## My Stats ##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geeekgod&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=geeekgod&theme=dracula)
+---
 
-![tryhackme stats](https://raw.githubusercontent.com/geeekgod/geeekgod/master/assets/badge.png)
+### What I'm doing
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=geeekgod&theme=onedark)
+- **Now:** Founding AI Engineer at faff. Production voice AI, realtime call evals and observability, and agents that handle bookings, cancellations and payments end to end.
+- **Before:** led Vaani at Inka Insurance, a conversational AI platform for insurance used by 80,000+ people. Before that, founding engineer at SSingularity, shipping products for clients like Tata, Deloitte and Toyota.
+- **Also:** I mentor engineers on careers, interviews and resumes, and I like security work and CTFs on the side.
 
-![Profile views](https://komarev.com/ghpvc/?username=geeekgod)
-![thisisrishabh22 stats](./profile-3d-contrib/profile-green-animate.svg)
+### Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geeekgod&show_icons=true&hide_border=true&theme=transparent&hide_rank=false" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=geeekgod&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph"/>
+</picture>
